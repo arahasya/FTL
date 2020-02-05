@@ -1,0 +1,25 @@
+# Generated binary files
+/obj/
+/dnsmasq/obj
+pihole-FTL
+socket-test
+
+# Versioning files
+version*
+
+# CMake files
+/CMakeLists.txt
+/cmake-build-debug/
+
+# IDE files
+.idea/
+
+# Test-generated files
+/pihole.log
+/pihole-FTL.conf
+/pihole-FTL.db
+/pihole-FTL.log
+
+# aux files
+aux/manuf.data
+aux/macvendor.db
